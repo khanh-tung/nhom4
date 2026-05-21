@@ -1,2 +1,8 @@
 tung
+<<<<<<< HEAD
 anh da o day 
+=======
+Quynh da co mat o day
+milo đã ở đây
+>>>>>>> 8d05687a71b0c2b37a00617b4faa0d89581e358b
+hello anh day nhe
